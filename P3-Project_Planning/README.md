@@ -12,7 +12,7 @@ For this assignment, you'll create some initial plans for your project.
   * [Diagram](https://docs.google.com/drawings/d/1GRVS3vrjtfUsuUDjb8FPMWbx7qFlz32EsxZi0NQ83xA/edit?usp=sharing)
 
 * Keyword Database attributes
-  * [Diagramo](https://docs.google.com/drawings/d/1AOtkdHiYkybKiMQxgqKh1LRs2pOM3-DjFD52R_P2KDk/edit?usp=sharing)
+  * [Diagram](https://docs.google.com/drawings/d/1AOtkdHiYkybKiMQxgqKh1LRs2pOM3-DjFD52R_P2KDk/edit?usp=sharing)
   
 * Keyword Home Page
   * [Mock up](https://docs.google.com/drawings/d/1m8Lxc6fcMH9qcl1EWkvmtaQZ5RTwg7ba_cv0ONURdhI/edit?usp=sharing)
