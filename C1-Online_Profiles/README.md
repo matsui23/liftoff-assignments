@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 (www.linkedin.com/in/matthew-martinez2313)
 
 ### Resume
-Resume is uploaded above in the C1-Online_Profiles index
+Resume is uploaded above in the C1-Online_Profiles index named "MatthewMartinezResume"
